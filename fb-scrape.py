@@ -13,7 +13,6 @@ from time import time
 import os
 
 # fbToken = open('fb_token.txt', 'r').readlines()
-fbToken = '461103667412110|nTzSuAeYae8sQQUlacxB1Ar7J5U'
 apiVersion = 'v2.10'
 
 
